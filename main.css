@@ -1,0 +1,26 @@
+
+#container{
+	top:50%;
+  	left: 50%;
+  	transform: translate3d(-50%,-50%, 0);
+  	position: absolute;
+}
+
+/*#img{
+	top:50%;
+  	left: 50%;
+  	transform: translate3d(-50%,-50%, 0);
+  	position: absolute;
+}*/
+
+#gif{
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 50%;
+}
+
+p {
+	text-align:center;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 30pt;
+}
